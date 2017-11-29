@@ -1,0 +1,7 @@
+D:\YodaSpeakTranslator-master\API.YodaSpeak\bin\Debug\API.YodaSpeak.dll
+D:\YodaSpeakTranslator-master\API.YodaSpeak\bin\Debug\API.YodaSpeak.pdb
+D:\YodaSpeakTranslator-master\API.YodaSpeak\obj\Debug\API.YodaSpeak.YodaSpeakRes.resources
+D:\YodaSpeakTranslator-master\API.YodaSpeak\obj\Debug\API.YodaSpeak.csproj.GenerateResource.Cache
+D:\YodaSpeakTranslator-master\API.YodaSpeak\obj\Debug\API.YodaSpeak.dll
+D:\YodaSpeakTranslator-master\API.YodaSpeak\obj\Debug\API.YodaSpeak.pdb
+D:\YodaSpeakTranslator-master\API.YodaSpeak\obj\Debug\API.YodaSpeak.csprojResolveAssemblyReference.cache
